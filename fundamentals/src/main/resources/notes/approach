@@ -1,0 +1,11 @@
+1. For each of the concept, code 20% of the core things that are needed to understand the concepts.
+
+Assignment : NS backend in Java/Spring/Spring Boot.
+
+First assignment :
+
+1. User login flow.
+   - Authorization based on roles.
+
+2. User order creation flow.
+   - Mappings and Transactions concepts.
