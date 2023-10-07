@@ -1,0 +1,17 @@
+1. Assume that user is registered.
+
+2. User tries to login.
+
+3. On Success, display a message.
+
+4. On Failure, display a message.
+
+5. If Authenticated, allow it to access an API otherwise return Forbidden error.
+
+6. One case of Authenticated but not authorized scenario.
+
+Note: There is no need of DB involvement.
+      Just store the credentials if needed in a file.
+
+The whole idea is to master the fundamental building blocks of Spring Security such that
+we can leverage it in real world use case.
