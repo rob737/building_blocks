@@ -6,6 +6,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+// TODO: whitelist this API to access it without authentication.
+// TODO: create a new controller that would need authentication.
 @RestController
 public class LoginController {
 
